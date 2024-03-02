@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+.idea
+pybo.db
+*.pyc
+__pycache__
+migrations
